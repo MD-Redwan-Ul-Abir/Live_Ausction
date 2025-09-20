@@ -1,0 +1,14 @@
+<svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_4800)">
+<path d="M2 13.5L13 13.5C13.5523 13.5 14 13.0523 14 12.5L14 1.5C14 0.947715 13.5523 0.5 13 0.5L2 0.5C1.44771 0.5 1 0.947715 1 1.5L1 12.5C1 13.0523 1.44771 13.5 2 13.5Z" stroke="#000001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5 6.50008C10.5 7.29573 10.1839 8.0588 9.62132 8.6214C9.05871 9.18401 8.29565 9.50008 7.5 9.50008C6.70435 9.50008 5.94129 9.18401 5.37868 8.6214C4.81607 8.0588 4.5 7.29573 4.5 6.50008V4.31008C4.49983 4.22511 4.52132 4.1415 4.56244 4.06714C4.60355 3.99277 4.66294 3.93012 4.735 3.88508C4.80706 3.84005 4.8894 3.81412 4.97426 3.80975C5.05912 3.80537 5.1437 3.8227 5.22 3.86008L7.5 5.00008L9.78 3.86008C9.85631 3.8227 9.94088 3.80537 10.0257 3.80975C10.1106 3.81412 10.1929 3.84005 10.265 3.88508C10.3371 3.93012 10.3964 3.99277 10.4376 4.06714C10.4787 4.1415 10.5002 4.22511 10.5 4.31008V6.50008Z" stroke="#000001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 9.5V13.5" stroke="#000001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 13.5L10 11" stroke="#000001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 13.5L5 11" stroke="#000001" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_6_4800">
+<rect width="14" height="14" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>
